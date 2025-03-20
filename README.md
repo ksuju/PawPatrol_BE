@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=bnMnoca5ATc&t=11s
 > BE Repo : [백엔드 레포 바로가기](https://github.com/BackEndSchoolPlus3th/PawPatrol_BE)   
 > FE Repo : [프론트 레포 바로가기](https://github.com/BackEndSchoolPlus3th/PawPatrol_FE)
 
-- FE : Vite(React + Typescript), Axios
+- FE : Vite(React + Javascript), Axios
 - BE : SpringBoot, JPA, WebSocket, Python, OAuth2
 - Data & Messaging : MySQL, Redis, Kafka
 - 버전 및 이슈관리 : Github
