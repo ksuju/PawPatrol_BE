@@ -478,6 +478,18 @@ Mysql, Redis
 	- 동적 쿼리를 사용한 저장된 동물 보호소 목록 검색 (QueryDSL)
 
 
+## 🎞️ 시연 영상
+
+![시연1](https://github.com/user-attachments/assets/47fcf670-c716-4615-8757-b443bbf15594)
+
+![시연2](https://github.com/user-attachments/assets/f7708f65-f7bf-42d7-9c73-2f010ac28afe)
+
+![시연3](https://github.com/user-attachments/assets/d56f5a30-f3e5-49f5-98e3-bf677ee9e2fb)
+
+
+![시연영상](https://github.com/user-attachments/assets/2f276aa6-6448-4fc3-a3b6-31ab42dddc38)
+
+
 ## 🔧 기술구현(팀)
 ![Video Label](http://img.youtube.com/vi/bnMnoca5ATc/0.jpg)<br>(https://www.youtube.com/watch?v=bnMnoca5ATc)
 
@@ -498,7 +510,3 @@ Mysql, Redis
 - [JWT 토큰 갱신이 작동하지 않은 문제, ddl-auto=create](https://ksuju.tistory.com/160)
 - [공공 API 사용 시 "등록되지 않은 인증키 입니다. " 에러 해결](https://ksuju.tistory.com/162)
 
-
-## 🎞️ 시연 영상
-
-![시연영상](https://github.com/user-attachments/assets/2f276aa6-6448-4fc3-a3b6-31ab42dddc38)
