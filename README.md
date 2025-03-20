@@ -484,6 +484,10 @@ Mysql, Redis
 
 ##  ✒️ 메모
 - [OAuth2.0 자체 계정 연동 리팩토링](https://ksuju.tistory.com/156)<br>
+	- 기존 단점 : 의도치 않은 계정과의 연동 문제
+	- 변경 사항 : 자체 계정이 있을 때만 연동 페이지를 통해 명시적으로 연동
+	- 개선 후 장/단점 : 의도치 않은 계정과의 연동 문제는 해결했으나, 사용자 경험이 복잡해짐
+	- 배운 점 : 기존 코드의 장점을 살리며 단점을 최소화하는 방향으로 리팩토링을 진행해야 한다
 - [Axios 메서드별 데이터 전송 방식](https://ksuju.tistory.com/161)
 
 
@@ -497,8 +501,4 @@ Mysql, Redis
 
 ## 🎞️ 시연 영상
 
-#### 채팅 메시지 검색
-- 키워드, 닉네임으로 채팅방 내에 있는 메시지 검색 가능
-![시연4cut](https://github.com/user-attachments/assets/0123d93b-9a64-4ec2-beca-63a0ebab10fc)
-[QueryDSL - 채팅 메시지 검색 소스코드](https://github.com/ksuju/hfBackend/blob/73813175ba3fcea12eadcac7a4c9385f18f81a56/src/main/java/com/ll/hfback/domain/group/chat/serviceImpl/ChatMessageServiceImpl.java#L180-L256)</br>
-[Elasticsearch - 채팅 메시지 검색 소스코드](https://github.com/ksuju/hfBackend/blob/73813175ba3fcea12eadcac7a4c9385f18f81a56/src/main/java/com/ll/hfback/domain/group/chat/search/serviceImpl/ChatMessageDocServiceImpl.java#L30-L103)
+![시연영상](https://github.com/user-attachments/assets/2f276aa6-6448-4fc3-a3b6-31ab42dddc38)
