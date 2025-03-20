@@ -481,6 +481,7 @@ Mysql, Redis
 
 
 ## 🎞️ 시연 영상
+![시연영상 링크](https://github.com/user-attachments/assets/2f276aa6-6448-4fc3-a3b6-31ab42dddc38)
 
 ![시연1](https://github.com/user-attachments/assets/47fcf670-c716-4615-8757-b443bbf15594)
 
@@ -488,8 +489,6 @@ Mysql, Redis
 
 ![시연3](https://github.com/user-attachments/assets/d56f5a30-f3e5-49f5-98e3-bf677ee9e2fb)
 
-
-![시연영상](https://github.com/user-attachments/assets/2f276aa6-6448-4fc3-a3b6-31ab42dddc38)
 
 
 ## 🔧 기술구현(팀)
